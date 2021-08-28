@@ -31,4 +31,6 @@
 *.out
 *.app
 
+# Manually added compiled binary files, because I haven't yet read up on .json. Not familiar how to add .out file extension to appropriate.
 Node
+LinkedLists
