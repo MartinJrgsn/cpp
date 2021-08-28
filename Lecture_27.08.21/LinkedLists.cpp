@@ -1,5 +1,4 @@
-#include <iostream>
-//#include "Node.h" // So I won't forget
+#include "Node.h"
 
 
 int main()
