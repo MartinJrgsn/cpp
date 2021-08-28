@@ -3,5 +3,5 @@
 
 int main()
 {
-    std::cout << "testing\n";
+    std::cout << "test\n";
 }
