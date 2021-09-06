@@ -34,7 +34,7 @@ protected:
     Node<T>::Node(const T& data)
         : m_data{ data }
     {
-        std::cout << "Node constructor called" << std::endl; // help text 
+        //std::cout << "Node constructor called" << std::endl; // help text 
     }
 
     template <typename T>

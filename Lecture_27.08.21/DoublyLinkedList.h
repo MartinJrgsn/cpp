@@ -30,7 +30,7 @@ protected:
     DoublyLinkedList<T>::DoublyLinkedList()
         : m_tail{ nullptr }, m_head{ nullptr }
     {
-        std::cout << "DoublyLinkedList constructor called\n";
+        //std::cout << "DoublyLinkedList constructor called\n";
     }
 
     template <typename T>
